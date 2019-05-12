@@ -1,0 +1,10 @@
+\documentclass[10pt]{articale}
+\author{Daniel}
+\title{Git is fun}
+\begin{document}
+		\maketitle
+
+		This is a super awesome scientific paper.
+		I hope I win a Prize.
+
+\end{document}
